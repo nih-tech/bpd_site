@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Biological Production Division is the producer of life saving vaccines and Anti-sera vaccines for immunization and therapeutic use to control against the infectious and non-communicable diseases in Pakistan.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This division is the major revenue-generating component of the National Institute of Health. The revenue generated through sale proceeds of vaccines and Anti-sera is utilized not only for the recurring expenditures of this division but it also supports operational expenditures of various other divisions and sub-divisions of NIH.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Major vaccine production includes Allergan Extract Vaccines, Rabies Vaccine, Typhoid Cholera, etc. Similarly Anti-sera is also produced against snake venom and Rabies Viral. Oral rehydration salt is also produced to counter diarrheal diseases. All the products are available at affordable prices to the people of Pakistan.
