@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username: aliirz
 
 # Build settings
-theme: minima
+# theme: minima
 # theme: bulma-clean-theme
 # theme: stately-jekyll
 plugins:
