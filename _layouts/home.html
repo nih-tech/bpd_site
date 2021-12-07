@@ -24,22 +24,58 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
-      {% for service in site.services %}
-      <div class="col-12 col-md-4 mb-1">
-        <div class="service service-summary">
-          <div class="service-content">
-            <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
-            </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
-          </div>
-        </div>
+      <div class="col-12 mb-2">
+        <h2 class="text-center">Divisions</h2>
+        <p class="text-justify">Lorem Ipsum  has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularized in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
+      {% for service in site.services %}
+        {% if forloop.rindex <= 3 %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+              <div class="service-content">
+                <h2 class="service-title">
+                  <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+                </h2>
+                <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
       {% endfor %}
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
+        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Divisions</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      <div class="col-12 mb-2">
+        <h2 class="text-center">Products</h2>
+        <p class="text-justify">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+      </div>
+      {% for product in site.products %}
+        {% if forloop.rindex <= 3 %}
+          <div class="col-12 col-md-4 mb-1">
+            <div class="service service-summary">
+              <div class="service-content">
+                <h2 class="service-title">
+                  <a href="{{ product.url | relative_url }}">{{ product.title }}</a>
+                </h2>
+                <p>{{ product.content | markdownify | strip_html | truncate: 100 }}</p>
+              </div>
+            </div>
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "products" | relative_url }}">View All Products</a>
       </div>
     </div>
   </div>
