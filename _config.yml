@@ -13,8 +13,6 @@ logo:
 collections:
   divisions:
     output: true
-  team:
-    output: true
   products:
     output: true
 
@@ -24,11 +22,6 @@ defaults:
       type: "divisions"
     values:
       layout: "division"
-  - scope:
-      path: ""
-      type: "team"
-    values:
-      layout: "team"
   - scope:
       path: ""
       type: "products"
