@@ -9,8 +9,8 @@ dataDir: "_data"
 pagesDir: ""
 pageLayoutKey: null
 logicFields:
-  - service.weight
-  - team.weight
+  - division.weight
+  - product.weight
 models:
   config:
     type: config
@@ -61,10 +61,10 @@ models:
         name: layout
         default: "home"
         hidden: true
-  services:
+  divisions:
     type: page
-    label: Services
-    file: services.md
+    label: Divisions
+    file: divisions.md
     singleInstance: true
     fields:
       - type: string
@@ -85,10 +85,10 @@ models:
       - type: boolean
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
-  teams:
+  products:
     type: page
-    label: Teams
-    file: team.md
+    label: Products
+    file: products.md
     singleInstance: true
     fields:
       - type: string
@@ -98,8 +98,11 @@ models:
         name: layout
         label: Layout
       - type: string
-        name: permalink
-        label: Permalink
+        name: collection
+        label: Collection
+      - type: image
+        name: intro_image
+        label: Intro Image
       - type: boolean
         name: intro_image_absolute
         label: Intro Image Absolute
@@ -126,10 +129,10 @@ models:
             value: page
           - label: contact
             value: contact
-  service:
+  division:
     type: page
-    label: Service
-    folder: _services
+    label: Division
+    folder: _divisions
     match: "*"
     fields:
       - type: string
@@ -150,10 +153,11 @@ models:
         options:
           - label: service
             value: service
-  team:
+  product:
     type: page
-    label: Team
-    folder: _team
+    label: Product
+    folder: _products
+    match: "*"
     fields:
       - type: string
         name: title
@@ -162,27 +166,17 @@ models:
         name: date
         label: Date
       - type: boolean
-        name: draft
-        label: Draft
-      - type: image
-        name: image
-        label: Image
-      - type: string
-        name: jobtitle
-      - type: string
-        name: linkedinurl
+        name: featured
+        label: Featured
       - type: number
         name: weight
         label: Weight
         subtype: int
-      - type: string
+      - type: enum
         name: layout
-        label: Layout
-        hidden: true
-        default: team
-      - type: boolean
-        name: promoted
-        label: Promoted
+        options:
+          - label: service
+            value: service
   contact:
     type: data
     label: Contact

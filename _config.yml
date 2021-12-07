@@ -1,6 +1,6 @@
 baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'BPD - Biological Production Division'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -11,22 +11,29 @@ logo:
   desktop_width: "120px"
 
 collections:
-  services:
+  divisions:
     output: true
   team:
+    output: true
+  products:
     output: true
 
 defaults:
   - scope:
       path: ""
-      type: "services"
+      type: "divisions"
     values:
-      layout: "service"
+      layout: "division"
   - scope:
       path: ""
       type: "team"
     values:
       layout: "team"
+  - scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
 
 sass:
   indentWidth: 4
