@@ -21,6 +21,28 @@ bodyClass: "page-home"
   </div>
 </div>
 
+{% if site.data.features %}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+
+      {% for feature in site.data.features %}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {% if feature.image %}
+          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
+          {% endif %}
+          <h2 class="feature-title">{{ feature.title }}</h2>
+          <div class="feature-content">{{ feature.description }}</div>
+        </div>
+      </div>
+      {% endfor %}
+
+    </div>
+  </div>
+</div>
+{% endif %}
+
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
@@ -28,15 +50,15 @@ bodyClass: "page-home"
         <h2 class="text-center">Divisions</h2>
         <p class="text-justify">Lorem Ipsum  has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularized in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
       </div>
-      {% for service in site.services %}
+      {% for division in site.divisions %}
         {% if forloop.rindex <= 3 %}
           <div class="col-12 col-md-4 mb-1">
             <div class="service service-summary">
               <div class="service-content">
                 <h2 class="service-title">
-                  <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+                  <a href="{{ division.url | relative_url }}">{{ division.title }}</a>
                 </h2>
-                <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+                <p>{{ division.content | markdownify | strip_html | truncate: 100 }}</p>
               </div>
             </div>
           </div>
@@ -45,7 +67,7 @@ bodyClass: "page-home"
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Divisions</a>
+        <a class="button button-primary" href="{{ "divisions" | relative_url }}">View All Divisions</a>
       </div>
     </div>
   </div>
@@ -80,25 +102,3 @@ bodyClass: "page-home"
     </div>
   </div>
 </div>
-
-{% if site.data.features %}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
-      </div>
-      {% endfor %}
-
-    </div>
-  </div>
-</div>
-{% endif %}
