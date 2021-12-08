@@ -1,5 +1,6 @@
 ---
 title: "Bacterial | Division | BPD - Biological Production Division"
+title_in_body: "Bacterial"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 1

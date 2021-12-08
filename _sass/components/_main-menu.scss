@@ -18,7 +18,7 @@
         color: $primary;
         &:hover {
           text-decoration: none;
-          color: $black;
+          color: $white;
         }
       }
       &.active {
@@ -28,7 +28,16 @@
           &:hover {
             text-decoration: none;
             transition: all 225ms ease-in 0s;
+            color: $white;
           }
+        }
+      }
+      &:hover {
+        background-color: $white-blue-offset;
+        transition: all 225ms ease-in 0s;
+        color: $black;
+        > a:hover { 
+          color: $black;
         }
       }
     }

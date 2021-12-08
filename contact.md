@@ -1,5 +1,6 @@
 ---
 title: Contact | BPD - Biological Production Division
+title_in_body: Contact
 layout: contact
 description: Contact
 ---

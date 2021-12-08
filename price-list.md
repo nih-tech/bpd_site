@@ -1,5 +1,6 @@
 ---
 title: Price List | BPD - Biological Production Division
+title_in_body: Price List
 layout: page
 description: Price List
 bodyClass: page-about

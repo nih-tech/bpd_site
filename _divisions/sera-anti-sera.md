@@ -1,5 +1,6 @@
 ---
 title: "Anti-sera / Sera | Division | BPD - Biological Production Division"
+title_in_body: "Anti-sera / Sera"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 3

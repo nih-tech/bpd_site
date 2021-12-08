@@ -1,5 +1,6 @@
 ---
 title: About Us | BPD - Biological Production Division
+title_in_body: About Us
 layout: page
 description: About Us
 bodyClass: page-about
