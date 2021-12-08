@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Production Unit",
+    "description": "Biological Production Division is the sole producer of life saving vaccines and anti-sera for immunization & therapeutic use to control the infectious and non-communicable diseases in the country.",
+    "image": {
+      "url": "images/features/production.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Revenue Generation",
+    "description": "This division is the major revenue-generating components of NIH. The revenue generated through sale proceeds of vaccines and anti-sera is utilized the recurring expenditures of this division but it also supports operational expenditures of various other divisions.",
+    "image": {
+      "url": "images/features/growth.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Vaccines & Anti-sera",
+    "description": "Major vaccines production include allergy, Cholera, Typhoid, Measles, Rabies and Tetanus vaccines. Similarly anti-sera produced against rabies virus and snake venom. Oral rehydration salt is also produced to counter the diarrheal diseases.",
+    "image": {
+      "url": "images/features/vaccines.png",
+      "width": 80,
+      "height": 80
+    }
+  }
+]

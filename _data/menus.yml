@@ -1,0 +1,59 @@
+main:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Divisions"
+    url: "#divisions"
+    weight: 2
+    children: 
+      - name: "Bacterial"
+        url: "divisions/bacterial/"
+        weight: 1
+      - name: "Viral"
+        url: "divisions/viral/"
+        weight: 2
+      - name: "Anti-seras / Sera"
+        url: "divisions/sera-anti-sera/"
+        weight: 3
+      - name: "Others"
+        url: "divisions/others/"
+        weight: 4
+  - name: "Products"
+    url: "#products"
+    weight: 2
+    children: 
+      - name: "Bacterial"
+        url: "products/bacterial/"
+        weight: 1
+      - name: "Viral"
+        url: "products/viral/"
+        weight: 2
+      - name: "Anti-sera"
+        url: "products/anti-sera/"
+        weight: 3
+      - name: "Others"
+        url: "products/others/"
+        weight: 4
+  - name: "Price List"
+    url: "/price-list/"
+    weight: 5
+  - name: "BPD Organizational Chart"
+    url: "/bpd-organizational-chart/"
+    weight: 5
+  - name: "About Us"
+    url: "/about-us/"
+    weight: 6
+  - name: "Contact"
+    url: "/contact/"
+    weight: 7
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "About Us"
+    url: "/about-us/"
+    weight: 2
+  - name: "Contact"
+    url: "/contact/"
+    weight: 3
