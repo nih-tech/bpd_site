@@ -5,45 +5,31 @@ featured: true
 weight: 1
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, ipsum nunc euismod nisi, eu aliquam nisl nisl euismod nisi. Nulla facilisi. Nulla facilisi. 
+## Tetanus Toxoid Production Laboratory
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+Tetanus is a highly fatal serious disease of nervous system caused by a toxin producing & spore-forming bacterium known as Clostridium tetani. The disease causes unvolunteered muscle contraction particularly of jaw and neck muscle to cause lockjaw, also the other name of this disease, making it impossible for patient to open mouth and swallow.
 
-## Geniti facinus praeruptam atris ab manus in
+Severe complications of tetanus could be life threatening, mostly due to patients not being able to breathe as pharynx muscles are tightly contracted. Tetanus has no cure and treatment focuses on managing symptoms and complications until effects of tetanus toxin are resolved.
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+For prevention of the disease in the country, Pakistan established Tetanus Toxoid Production Lab on 28th July, 1992 as an integral part of the Biological production division of NIH, Pakistan. This facility was established with technical co-operation of US-Aid. Currently TTPL manufactures Tetanus Toxoid Adsorbed vaccine which is used for age groups of more than 14 years individuals and supplied to EPI, Pakistan Armed Forces, General Hospitals/dispensaries and individual patients.
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+Production of approximately 5millions doses of TT vaccine is achieved. Furthermore, TTPL has planned production of Tetanus-diphtheria (Td) combined vaccine in near future and enhancement in the number of doses of vaccine to cope the country’s demand of vaccine, indigenously.
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+### TCVPL (Typhoid Cholera)
 
-## Vidit si probetne vertitur
+Typhoid fever can be a life-threatening disease. Symptoms of infection include persistent high fever, weakness, stomach pain, diarrhea or constipation, cough and loss of appetite. 30% of people who do not get treatment die from complications of Typhoid fever. There are fever antibiotic treatment options as resistant Typhoid bacteria has become more common in many parts of the world. This is a vaccine preventable disease so two types of vaccines i.e. killed and attenuated. Vaccines are being used worldwide.
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+In Pakistan Typhoid Cholera Vaccine production lab, BPD, NIH is manufacturing this vaccine. This vaccine is an inactive bacterial vaccine. Typhoid vaccine manufactured at TCVPL, NIH is a suspension of inactive salmonella typhi, containing not less than 1000 million bacteria of S. Typhi Ty-2strain and 500 million each of Salmonella typhi A&B strain per human dose of 1ml. Preserved by 0.5% Phenol.The strain used has the full component of OH and VI antigens. The organisms are inactive by heating at 56°C for one hour and by addition of Phenol1%. In the near future the facility of Typhoid vaccine production will be upgraded.
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+### Typhoid Cholera
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+Cholera is an acute diarrheal illness caused by infection of the intestine with Vibrio cholera bacteria. People can get sick when they swallow food or water contaminated with cholera bacteria. The infection is often mild or without symptoms but can sometimes be severe and life threatening.
+
+### Role of NIH, Pakistan
+
+In Pakistan, TCVPL unit of BPD, NIH is manufacturing Typhoid Cholera mix vaccine.1ml contain 400 million Vibrio cholerae (Inaba& Ogawa strains), 1000 million, Salmonella typhi and 5ml phenol contain as preservative.
+
+### Duration of Immunity TC and TAB
+
+Duration of immunity is two years. In case of travels or continuation of exposure a booster dose of 1.0ml is required after every two years

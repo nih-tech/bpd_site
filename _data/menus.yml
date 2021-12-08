@@ -12,7 +12,7 @@ main:
       - name: "Viral"
         url: "divisions/viral/"
         weight: 2
-      - name: "Anti-seras/ Sera"
+      - name: "Anti-seras / Sera"
         url: "divisions/sera-anti-sera/"
         weight: 3
       - name: "Others"

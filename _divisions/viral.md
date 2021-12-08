@@ -5,77 +5,25 @@ featured: true
 weight: 2
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, ipsum nunc euismod nisi, eu aliquam nisl nisl euismod nisi. Nulla facilisi. Nulla facilisi. 
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## Cell Culture Rabies Vaccine Production Laboratory (CCRVPL)
 
-# Objectives 
+Rabies is a fatal yet vaccine preventable viral disease caused by the rabies virus (Lyssa virus). It is transmitted through the bite or saliva of infected animals (dog, cat, bat, and raccoons etc. Globally dogs are the most common animal involved in the transmission of virus through bites scratches and nibbling of uncovered skin.
 
-Financial accounting and financial reporting are often used as synonyms.
+Rabies virus infects the central nervous system and causes inflammation of the brain. If the person does not receive the appropriate medical care or vaccine after a potential rabies exposure, the virus can cause disease, ultimately resulting in death.
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+For the prevention and control of Rabies in Pakistan, Cell Culture Rabies Vaccine Production Laboratory (CCRVPL) was established on 30th September 1986 as an integral part of vaccine production facilities of Biological Production Division, NIH. The production unit was established with the technical cooperation of Canadian International Development Agency (CIDA). It is now in continuous production and being supplied to Government hospitals/dispensaries, armed forces, NGOs and individual patients.
+The vaccine is the liquid preparation of rabies fixed virus grown in Vero cells. After the incubation and harvest, the virus suspension is inactivated, concentrated and purified to which stabilizer is edited. It is a whitish clear liquid containing thimerosal as preservatives. Each vial contains 0.5ml volume having 2.5 I.U purified and inactivated rabies virus. This vaccine leads WHO requirements for rabies pre and post exposure prophylaxis.
 
-## Relevance
+## Measles Vaccine Production Lab
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+Measles is a widespread disease in Pakistan and has recruited hundreds of lives during the past outbreaks. According to WHO and UNICEF, Pakistan is on 47 precedence and makes up a large percentage of loss due to measles. The disease can be prevented by vaccination and NIH is the sole institute that produces Measles vaccine in Pakistan meets vaccine demand of the country.
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+Measles vaccine production lab was established in NIH in 1984 during the regime of General Muhammad Zia ul Haq, the lab was financially funded by UNICEF, Prince Talal Bin Abdul Aziz of Saudi Arabia, and Government of Pakistan. Technical consultancy and services were provided by Connaught Laboratories Canada.
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+## PakVac Covid 19/ CoronaVirus
 
-## Faithful Representation
+PakVac vaccine is Ad5-nCoV recombinant vaccine which is being manufactured at NIH with the help of Cansino bio from China. This joint venture began when NIH and a local pharma company AJM pharma joined hands with the Cansino bio to launch the phase III clinical trials of this vaccine in late 2020. The successful venture led to the agreement for transfer of technology of this vaccine between both parties to make Pakistan self-sufficient in Covid vaccine production.
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
-
----
-
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+NIH is currently getting the drug substance from Cansino bio and it is doing formulation, filling and packing locally. NIH has produced about 8 million doses of this vaccine so far out of which 5 million has been successfully administered.
