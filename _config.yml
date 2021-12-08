@@ -3,12 +3,14 @@ permalink: pretty
 title: 'BPD - Biological Production Division'
 
 logo:
-  mobile: "images/logo/bpd-logo.png"
-  mobile_height: "32px"
-  mobile_width: "32px"
+  mobile: "images/logo/bpd-logo-mobile.png"
+  mobile_white: "images/logo/bpd-logo-mobile-white.png"
+  mobile_height: "82px"
+  mobile_width: "82px"
   desktop: "images/logo/bpd-logo.png"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  desktop_white: "images/logo/bpd-logo-white.png"
+  desktop_height: "64px"
+  desktop_width: "240px"
 
 collections:
   divisions:
