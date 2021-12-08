@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: About Us | BPD - Biological Production Division
 layout: page
 description: About Us
 bodyClass: page-about

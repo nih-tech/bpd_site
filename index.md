@@ -1,5 +1,5 @@
 ---
-title: BPD - Biological Production Division
+title: Home | BPD - Biological Production Division
 layout: home
 description: Home page of the BPD
 intro_image: "images/illustrations/pointing.svg"

@@ -1,5 +1,5 @@
 ---
-title: Divisions
+title: Divisions | BPD - Biological Production Division
 layout: divisions
 description: Divisions
 intro_image: "images/illustrations/reading.svg"

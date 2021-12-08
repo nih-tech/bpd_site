@@ -1,5 +1,5 @@
 ---
-title: BPD Organizational Chart
+title: BPD Organizational Chart | BPD - Biological Production Division
 layout: page
 description: BPD Organizational Chart
 permalink: "/bpd-organizational-chart/"
