@@ -37,7 +37,7 @@ main:
   - name: "Price List"
     url: "/price-list/"
     weight: 5
-  - name: "BPD Organizational Chart"
+  - name: "Org Chart"
     url: "/bpd-organizational-chart/"
     weight: 5
   - name: "About Us"

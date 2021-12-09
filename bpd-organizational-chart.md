@@ -7,6 +7,6 @@ permalink: "/bpd-organizational-chart/"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
-![Accounting Services](/images/bpd-organogram.png)
+![Organizational Chart](/images/bpd-organogram.png)
 
 

@@ -3,7 +3,7 @@ title: Home | BPD - Biological Production Division
 title_in_body: BPD - Biological Production Division
 layout: home
 description: Home page of the BPD
-intro_image: "images/illustrations/pointing.svg"
+intro_image: "images/illustrations/2.png"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true

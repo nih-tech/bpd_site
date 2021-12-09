@@ -6,77 +6,49 @@ featured: true
 weight: 4
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+## Oral Rehydration Salt (ORS - NIMKOL)
 
-# Objectives 
+![ORS - NIMKOL](/images/products/oral-rehydration-salt-1.png)
 
-Financial accounting and financial reporting are often used as synonyms.
+![ORS - NIMKOL](/images/products/oral-rehydration-salt-2.png)
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+### About product
 
-## Relevance
+Correction of a dehydrated state is accomplished by the replenishment of necessary water and electrolytes (through oral rehydration therapy or fluid replacement by intravenous therapy. As oral rehydration is less painful, less invasive, less expensive, and easier to provide, it is the treatment of choice for mild dehydration. Solutions used for intravenous rehydration must be isotonic or hypertonic. Pure water injected into the veins will cause the breakdown (lysis) of red blood cells (erythrocytes).
 
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance. 
+### How to use
+Dissolve one sachet of ORS in one-liter clean water. Do not boil the solution or mix anything. Use the solution within 24 hours.
+- **Infants:** One liter over 24 hours’ period 
+- **Children:** One liter over 8 to 24 hours’ period.
+- **Adults:** Drink freely as required (Two to four liters during 24 hours).
 
-> The ingredients of relevance are the predictive value and confirmatory value. 
+## Allergy Vaccine
 
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
+![Allergy Vaccine](/images/products/allergy-vaccine.png)
 
-## Faithful Representation
+### About Product:
 
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
+Allergy occurs when a person's immune system reacts to substances in the environment that are harmless for most people. These substances are known as allergens. Allergens are found in dust mites, pets, pollen, insects, ticks, molds, foods and some medicines. 
 
-## Enhancing Qualitative Characteristics
+Allergy shots help your body get used to allergens, the things that trigger an allergic reaction. It'll contain a tiny amount of the thing you’re allergic to like pollen, pet dander, mold, dust, or bee venom, for example. By using small amounts of allergens, the human immune system gets used to the allergens that cause the reactions. So within a few months the patients have less symptoms and within a few years may no longer suffer from an allergy.
 
-### Verifiability
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
+### How to use:
 
-### Comparability
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
+### Dosage:
+The dose will go up gradually until you get to what’s called a maintenance dose. After that, you’ll usually get a shot every 2-4 weeks for 4-5 months. Then your doctor will gradually increase the time between shots until you’re getting them about once a month for 3-5 years. During that time, your allergy symptoms will get better and may even go away.
 
-### Understandability
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+### Contraindications
+1. Children below 12 years of age and adults above 50 years of age should avoid it. 
+2. In case of fever. 
+3. During the recovery phase after an illness. 
+4. For chronic diseases or infections.
+5. When the response to a vaccine has previously been negatively strong. 
+6. In mental and physical disability cases. 
+7. In case of Pregnancy. 
+8. Immunocompromised personnel should also avoid vaccination.
 
----
+### Leaflet PDF:
 
-## Statement of cash flows
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
-
-Cash Inflow | Outflow | Opening Balance
---- | --- | ---
-*Monday* | `Tuesday` | **Wednesday**
-1 | 2 | 3
-
-
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
-
-* Cash inflow: $20
-* Cash outflow:$7
-* Opening balance: $5
-* Closing balance: $20 – $7 + $5 = $18
-
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
-
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
-
-## Statement of financial position (balance sheet)
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement. 
-
-- **fixed assets**
-    - property
-    - building
-    - equipment (such as factory machinery)
-- **intangible assets**
-    - copyrights
-    - trademarks
-    - patents
-        - pending
-        - international
-- goodwill
-
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+<https://www.nih.org.pk/wp-content/uploads/2018/07/ALLERGY-VACCINE-PRODUCTION-LABORATORY-leaflet.pdf>

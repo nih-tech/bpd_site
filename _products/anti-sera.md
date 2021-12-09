@@ -10,44 +10,52 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
+## Anti-rabies Serum (ARS)
 
-Agitabitur signa lympha; **non lacunae** mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+![Anti-rabies Serum (ARS)](/images/products/anti-rabies-serum.png)
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+### About Product:
 
-Locus evicit __loquuntur Tyrrhena omnes__, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The vaccine is liquid preparation of rabies fixed virus grown in Vero Cells. After incubation, and harvest, the virus suspension is inactivated, concentrated and purified, to which a suitable stabilizer is then added. It is a whitish clear liquid, containing thimerosal as a preservative.
 
-## Postquam tamen
+### How to use:
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Anti Rabies Serum used for post-exposure prophylaxis of rabies infection in persons after exposure to scratches, bites or  other injuries including mucus contamination with infection tissue, such as saliva, caused by a confirmed or suspected rabid animal.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+Human Rabies Immunoglobulin must always be used in combination with a rabies vaccine. Combined Serum Vaccine treatment for post exposure Prophylaxis of Rabies in man.
+1. The vaccine shall be shaken homogeneously before use.
+2. The vaccine should be administered either Intramuscular (I.M) or Intradermal (I.D) under the care of a registered medical practitioner. The volume of Intramuscular Injection should be 0.5ml, while for intradermal injection, a single dose should be 0.1ml.
+3. Deltoid muscle of the upper arm is the recommended site for I.M administration. For young children, inoculate the vaccine in the muscle at the anterolateral aspect of the thigh.
+4. Post-exposure schedule for immunization: Normally one dose of the vaccine shall be administered to the exposed person on day 0 (the first or the intraday). 3 (the fourth day, analogically henceforth), 7, 14 and 28, consecutively; five doses in total. Children shall be treated in the same way. It is recommended to double the first dose of vaccine in case of one of the following situations:
+    1. The exposed person was injected with immunoglobulin or antiserum one month before the day of receiving Rabies Vaccine.
+    2. Those receiving congenital or acquired immunodeficiency.. Those receiving immunosuppressant (including anti malaria drugs).
+    3. The elderly or patients with chronic diseases;
+    4. Administration of Rabies Vaccine becomes available to the exposed persons within 48 hours or longer after exposure.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+### Leaflet PDF:
+<https://drive.google.com/file/d/1yrwIo_3L6gHJm2lC-QNfwYGTxqCL5Xsp/view?usp=sharing>
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+## Anti-snake Venom Serum (Sera)
+
+![Anti-rabies Serum (ARS)](/images/products/anti-snake-venom-serum.png)
+
+### About Product:
+
+Anti snake venom serum is a sterile preparation containing purified and concentrated immunoglobulins obtained from the serum of healthy horses immunized against the venoms of the following four common poisonous snakes of Pakistan:
+1. Cobra 
+2. Krait 
+3. Russel’s viper
+4. Saw Scaled Viper
+
+### How to use:
+
+Conventionally the dose of Anti-snake venom serum is 10-30 ml and in severe cases it may go up to 200 ml. One third of the initial dose can be administered locally around the wound and the remaining two third of the dose intravenously. The second dose can be repeated two hours after the first dose or even earlier depending on the condition of the patient and severity of symptoms. Further doses can be repeated after a six  hours interval until the symptoms disappear completely.
+
+### Specific Serum Treatment:
+
+Once the venom has got into the circulation, it is the anti-snake venom serum that can neutralize it.
+At first  the dose of 10-30 ml of the serum will be injected intravenously very slowly. The second dose can be repeated two hours after the first dose or even earlier depending on the condition of the patient and severity of symptoms. Further doses can be repeated after a six hours interval until the symptoms disappear completely. One third of the first dose of anti-snake venom serum can be administered locally to prevent gangrene development specifically in case of Viper’s bite. Antiserum can be diluted with isotonic solution (the quantity of isotonic solution can be determined at the rate of 5ml/kg body weight).
+
+### Leaflet PDF:
+
+<https://drive.google.com/file/d/1-sq1RWuET_XA9wybaI2SDXt8C65neFQx/view?usp=sharing>

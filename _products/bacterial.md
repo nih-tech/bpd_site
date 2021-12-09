@@ -12,39 +12,64 @@ nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
 cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
 petunt dempserat dixisse, pro raptae aut male?
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+## Typhoid Vaccine (TAB)
 
-## Geniti facinus praeruptam atris ab manus in
+![Typhoid vaccine](/images/products/typhoid-vaccine.png)
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+### About product
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+The typhoid vaccine is a suspension of inactivated Salmonella typhi, not less than 1000 million, salmonella typhi and 500 million of each S. typhi para A and para B strains. Containing 0.5% phenol content as preservative.
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+### How to use
 
-## Vidit si probetne vertitur
+1. Vaccination should not  be used during typhoid fever, liver, cardiovascular and kidney diseases and allergic conditions etc. Injection should be given under medical supervision.
+2. Initial dose is 0.5 ml and the 2nd dose is 1.0 ml after one week.
+3. The route of injection is intramuscular/subcutaneously.
+4. General reaction is 1-2 days of swelling pain at the site of injection, headache and fever.
+5. The vaccine should be stored at 2 - 8 
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+### Leaflet PDF:
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+<https://drive.google.com/file/d/1OPABt924z6csZN0t5EVhEIjcWsx9CVoI/view?usp=sharing>
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
+### Typhoid Cholera mixed (TC)
+
+![Typhoid Cholera mixed vaccine](/images/products/typhoid-colera-mixed.png)
+
+### About product
+
+Typhoid Cholera Mix (TC) vaccine is a suspension of inactivated Salmonella typhi not less than 1000 million and 400 million each of Vibrio Cholera Inaba and Vibrio Cholera Ogawa. 0.5ml phenol content as preservative.
+
+### How to use
+
+1. Vaccination should not  be used during typhoid fever, liver, cardiovascular and kidney diseases and allergic conditions etc. Injection should be given under medical supervision.
+2. Initial dose is 0.5 ml and the 2nd dose is 1.0 ml after one week.
+3. The route of injection is intramuscular/subcutaneously.
+4. General reaction is 1-2 days of swelling pain at the site of injection, headache and fever.
+5. The vaccine should be stored at 2 - 8 degrees.
+
+### Leaflet PDF:
+
+<https://drive.google.com/file/d/1ncGuNwuQ2VLVCesWPSGjAy2zPgckecBj/view?usp=sharing>
+
+## Tetanus Toxoid Mix Vaccine
+
+![Tetanus Toxoid Mix Vaccine](/images/products/tetanus-toxoid-mix-vaccine.png)
+
+### About product
+
+Tetanus is caused by the action of C/ostr1diumtelani toxin upon the central nervous system. The toxin increases reflex stimulation of the motor neurons by functional blockade of the inhibitory neurons. This leads to the typicaltelanus symptoms of rigidity and reflex spasms. For active immunization,the tetanus toxin is converted into a non-toxic toxoid which remains fully effective as an antigen.The active potential is increased by adsorption onto an aluminium adjuvant.
+
+### How to use:
+
+Three doses of 0.5ml each, the first two doses are to be given 4-8 weeks apart with a third dose 6 to 12 months later. To maintain the level of immunity, further 0.5ml booster dose is recommended every 5 to 10 years. 
+Tetanus Prophylaxis In Case of Injury: 
+
+### Previously immunized individuals: 
+- If tetanus vaccination was performed one year or less before present injury, prophylaxis is not necessary'. 
+- If tetanus vaccination was performed one to five years previously, a booster dose Of O.Smlmust be given.
+- If vaccination was performed more than five years before, it is necessary to give a booster dose of O.Sml Tetanus toxoid along with an injection of 1500 IU.tetanus antiserum(ATS).
+
+### Leaflet PDF:
+
+<https://drive.google.com/file/d/1GR-FF_lMmM5XyKtgollVEpA-M1PJRalp/view?usp=sharing>
