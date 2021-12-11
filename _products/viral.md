@@ -6,7 +6,7 @@ featured: true
 weight: 2
 ---
 
-Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
+Viral vaccines containing infectious agents can be developed by classical techniques. Viral vaccines prevent or modify the severity of illness in the individual and interrupt or reduce the transmission of the pathogens to other susceptible people.
 
 ### Cell Culture Rabies Vaccine (CCRV)
 

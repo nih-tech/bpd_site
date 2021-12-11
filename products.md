@@ -11,5 +11,5 @@ show_call_box: true
 
 # Products that we produce and distribute
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel tincidunt consectetur, nisl nunc aliquet nunc, euismod aliquam nisl nunc euismod nisl.
+As an excellent supplier in the field of vaccines, BPD provides Bacteria, Viral and Anti-sera related vaccines services and products according to customer’s detailed requirements. These vaccines are administered to healthy individuals to induce long-term immunity against viral diseases
 

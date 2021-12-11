@@ -1,12 +1,12 @@
 ---
-title: "Bacterial | Division | BPD - Biological Production Division"
+title: "Bacterial | Unit | BPD - Biological Production Division"
 title_in_body: "Bacterial"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 weight: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, ipsum nunc euismod nisi, eu aliquam nisl nisl euismod nisi. Nulla facilisi. Nulla facilisi. 
+Bacterial vaccines contain killed or attenuated bacteria that activate the immune system. Bacterial Unit of BPD heads the following subunits.
 ## Tetanus Toxoid Production Laboratory
 
 Tetanus is a highly fatal serious disease of nervous system caused by a toxin producing & spore-forming bacterium known as Clostridium tetani. The disease causes unvolunteered muscle contraction particularly of jaw and neck muscle to cause lockjaw, also the other name of this disease, making it impossible for patient to open mouth and swallow.

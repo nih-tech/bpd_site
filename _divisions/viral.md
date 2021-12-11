@@ -1,12 +1,12 @@
 ---
-title: "Viral | Division | BPD - Biological Production Division"
+title: "Viral | Unit | BPD - Biological Production Division"
 title_in_body: "Viral"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 2
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, ipsum nunc euismod nisi, eu aliquam nisl nisl euismod nisi. Nulla facilisi. Nulla facilisi. 
+The Viral Unit of BPD works on the production and processing of viral vaccines. The main aim of this subunit is to provide prevention and control of viral diseases in Pakistan.
 
 ## Cell Culture Rabies Vaccine Production Laboratory (CCRVPL)
 

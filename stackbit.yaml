@@ -63,7 +63,7 @@ models:
         hidden: true
   divisions:
     type: page
-    label: Divisions
+    label: Units
     file: divisions.md
     singleInstance: true
     fields:
@@ -131,7 +131,7 @@ models:
             value: contact
   division:
     type: page
-    label: Division
+    label: Unit
     folder: _divisions
     match: "*"
     fields:

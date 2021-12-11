@@ -6,9 +6,7 @@ featured: true
 weight: 3
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Anti-sera vaccines are developed to prevent diseases like rabies. These antisera are administered if someone has been exposed to an environment or, in the case of rabies, an animal, which makes the threat of acquiring the disease real.
 
 ## Anti-rabies Serum (ARS)
 

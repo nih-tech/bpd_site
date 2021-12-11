@@ -1,12 +1,12 @@
 ---
-title: "Anti-sera / Sera | Division | BPD - Biological Production Division"
+title: "Anti-sera / Sera | Unit | BPD - Biological Production Division"
 title_in_body: "Anti-sera / Sera"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 3
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, ipsum nunc euismod nisi, eu aliquam nisl nisl euismod nisi. Nulla facilisi. Nulla facilisi. 
+Antiserum that contains specific antibodies against an infective organism or poisonous substance. This subunit of BPD mainly works on producing, processing and testing of sera products.
 
 ## Sera Processing Lab/ Anti-sera manufacturing laboratory unit
 

@@ -2,7 +2,7 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Divisions"
+  - name: "Units"
     url: "#divisions"
     weight: 2
     children: 
@@ -46,6 +46,9 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 7
+  - name: "Feedback"
+    url: "https://n8dchycsbzy.typeform.com/to/UundwuIy"
+    weight: 8
 
 footer:
   - name: "Home"

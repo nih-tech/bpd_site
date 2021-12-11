@@ -1,12 +1,12 @@
 ---
-title: "Others | Division | BPD - Biological Production Division"
+title: "Others | Unit | BPD - Biological Production Division"
 title_in_body: "Others"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 4
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, urna eu tincidunt consectetur, ipsum nunc euismod nisi, eu aliquam nisl nisl euismod nisi. Nulla facilisi. Nulla facilisi. 
+The Biological Production Division also provides products like oral rehydration salt and allergen extract vaccines in order to minimize the disease with proper disease.
 
 ## ORAL REHYDRATION SALT (ORS - Nimkol) Production Unit
 
