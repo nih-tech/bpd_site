@@ -3,7 +3,7 @@
   <ul>
     {% for item in mainmenu %}
     <li class="{% if item.url == page.url %}active{% endif %}">
-      <a href="{% if item.children %}#{% else %}{{ item.url | relative_url }}{% endif %}">{{ item.name }}</a>
+      <a href="{% if item.children %}#{% else %}{{ item.url | relative_url }}{% endif %}" {% if item.name == 'Feedback' %}target="_blank"{% endif %} >{{ item.name }}</a>
       {% if item.children %}
           <ul>
             {% for child in item.children %}

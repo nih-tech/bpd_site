@@ -4,7 +4,7 @@
       <div class="col-12">
         <div class="footer-inner">
           <h2 class="footer-title">
-              <img alt="{{ site.title }}" src="{{ site.logo.desktop_white | relative_url }}" />
+              <img alt="{{ site.title }}" width="{{ site.logo.desktop_width }}" height="{{ site.logo.desktop_height }}" src="{{ site.logo.desktop_white | relative_url }}" />
           </h2>
           <ul>
             {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
