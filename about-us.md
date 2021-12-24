@@ -1,7 +1,7 @@
 ---
 title: About Us | BPD - Biological Production Division
 title_in_body: About Us
-layout: page
+layout: about-us
 description: About Us
 bodyClass: page-about
 ---
@@ -15,17 +15,12 @@ Major vaccine production includes Allergan Extract Vaccines, Rabies Vaccine, Typ
 
 ## Message from chief BPD
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+Biological products are a kind of special agents for the prevention, diagnosis, and treatment of diseases. Biological production division is one of the main division of NIH involved in the production of vaccine and sera since its inception in 1960 and earned continued gratification from all its consumers for manufacturing quality products as per CGMP requirements according to WHO guidelines.
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+Quality control and quality assurance of biological products at BPD is essential during all manufacturing stages to build quality into the products.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Under the dynamic and driving leadership of Executive Director NIH Major General Aamer Ikram BPD NIH as created an ideal working environment in which all the employees have equal opportunities to use their abilities to maximum potential.
+
+BPD is trying hard to achieve their set goals and committed to improve the capabilities of BPD to achieve self-sufficiency and reliance.
+
+We at BPD-NIH vow to do our best to strengthen our competitness in the challenging times of fast changing international environment.
